@@ -1,10 +1,8 @@
-# Motion_Detection_Project
-
-#This project covers a basic motion detection program which you can use on your computer or Raspberry Pi.
+#This project covers a basic motion detection program that you can use on your computer or Raspberry Pi.
 
 #It is based on Python.
 
-#The program has capabilities such as detect objects in the field of view, mark their timesampts, save it to a .CSV file & also plot a graph using Bokeh.
+#The program has capabilities such as detecting objects in the field of view, marking their timestamps, saving it to a .CSV file & also plotting a graph using Bokeh.
 
 #This is my Fourth project. My next project will be about statistical data analysis in Python.
 
